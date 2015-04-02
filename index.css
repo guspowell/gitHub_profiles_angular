@@ -1,0 +1,49 @@
+html {
+  height: 100%;
+  background-color: #ffd464;
+}
+
+body {
+  height: 100%;
+  background-color: #ffd464;
+}
+
+.form-horizontal {
+  display: block;
+  text-align: center;
+  margin: 10px 0 20px 0;
+}
+
+.form-horizontal input {
+  background-color: transparent;
+  border: 1px solid #1253a4;
+  color: #1253a4;
+  line-height: 39px;
+  width: 400px;
+  font-size: 20px;
+  margin: 30px 20px 0 0;
+  border-radius: 4px;
+}
+
+.form-horizontal .btn {
+  background-color: #f26964;
+  width: 150px;
+  border: 1px solid #f26964;
+  line-height: 30px;
+  font-size: 25px;
+  color: #1253a4;
+  font-weight: 100;
+  margin-top: -6px;
+}
+div .list-group li {
+  background-color: #1253a4;
+  border: 0;
+  border-radius: 0px;
+  margin: 10px;
+}
+
+div a {
+  font-size: 20px;
+  margin-left: 20px;
+  color: white;
+}
