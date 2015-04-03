@@ -1,23 +1,25 @@
-html {
-  height: 100%;
-  background-color: #ffd464;
+#header {
+  border-bottom: 1px solid white;
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: 3%;
 }
 
-body {
-  height: 100%;
-  background-color: #ffd464;
+.git-logo {
+  width: 20%;
+  margin: 2% 0 2% -3%;
 }
 
 .form-horizontal {
-  display: block;
+  display: inline-block;
   text-align: center;
-  margin: 10px 0 20px 0;
+  margin: 0 0 0 10%;
 }
 
 .form-horizontal input {
-  background-color: transparent;
-  border: 1px solid #1253a4;
-  color: #1253a4;
+  background-color: #292929;
+  border: 1px solid white;
+  color: white;
   line-height: 39px;
   width: 400px;
   font-size: 20px;
@@ -26,20 +28,21 @@ body {
 }
 
 .form-horizontal .btn {
-  background-color: #f26964;
+  background-color: #e05151;
   width: 150px;
-  border: 1px solid #f26964;
+  border: 1px solid #e05151;
   line-height: 30px;
-  font-size: 25px;
-  color: #1253a4;
+  font-size: 20px;
+  color: white;
   font-weight: 100;
   margin-top: -6px;
 }
 div .list-group li {
-  background-color: #1253a4;
-  border: 0;
-  border-radius: 0px;
-  margin: 10px;
+  background-color: #292929;
+  border: 1px solid white;
+  border-radius: 5px;
+  margin: 2%;
+  padding: 2%;
 }
 
 div a {

@@ -5,17 +5,23 @@
     <title>Github user search</title>
     <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
     <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="normalize.css">
     <script src="bower_components/jquery/dist/jquery.js"></script>
     <script src="bower_components/angular/angular.js"></script>
     <script src="bower_components/angular-resource/angular-resource.js"></script>
   </head>
 
   <body>
-    <div>
+
+    <section id="header">
+      <img class="git-logo" src="github-profiles.png"/>
       <form class="form-horizontal">
         <input type="text">
         <button class="btn">Search</button>
       </form>
+    </section>
+
+    <div>
       <ul class="list-group">
         <li class="list-group-item">
           <img src="https://avatars.githubusercontent.com/u/469160?v=3&s=50">
