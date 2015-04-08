@@ -14,6 +14,7 @@
   display: inline-block;
   text-align: center;
   margin: 0 0 0 10%;
+  width: 50%;
 }
 
 .form-horizontal input {
@@ -21,7 +22,7 @@
   border: 1px solid white;
   color: white;
   line-height: 39px;
-  width: 400px;
+  width: 65%;
   font-size: 20px;
   margin: 30px 20px 0 0;
   border-radius: 4px;
