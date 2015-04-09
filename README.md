@@ -1,10 +1,9 @@
 GitHub Profiles - AngularJS
 =======================
 
-## Synopsis
-
 This is similar to my [GitHub profile loader using Ajax](https://github.com/guspowell/GitHub-profiles), but here I use AngularJS. This is a single page app where the user can search for GitHub profiles.
 
+##Screenshot
 ![screenshot](/public/images/screenshot.png)
 
 ## Technologies Used
